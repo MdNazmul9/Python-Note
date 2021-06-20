@@ -20,3 +20,12 @@ print ( ''.join(random.choice(letters) for i in range(10)) )
 # printing punctuation
 letters = string.punctuation
 print ( ''.join(random.choice(letters) for i in range(10)) )
+
+# output
+'''
+wcjwpkaxsn
+WYTITTRGCB
+atGogwIusx
+0732571950
+#^{#**><-_
+'''
